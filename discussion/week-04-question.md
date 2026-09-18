@@ -1,6 +1,6 @@
 ---
 id: w04-cudzich3-simpler-models
-title: "Simpler Models and Prediction Accuracy"
+title: "Week 4 Discussion Question"
 author: "Jessica Cudzich (cudzich3)"
 ---
 
