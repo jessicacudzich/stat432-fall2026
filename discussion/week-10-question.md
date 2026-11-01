@@ -1,5 +1,5 @@
 ---
-id: w11-cudzich3-linear-svm
+id: w10-cudzich3-linear-svm
 title: "Large Costs and Mislabeled Data"
 author: "Jessica Cudzich (cudzich3)"
 ---
