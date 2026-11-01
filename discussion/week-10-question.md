@@ -1,7 +1,3 @@
----
-id: w10-cudzich3-linear-svm
-title: "Large Costs and Mislabeled Data"
-author: "Jessica Cudzich (cudzich3)"
----
+# Week 10 Discussion
 
-If a few training points are mislabeled, how might a large cost parameter affect a linear SVM, and why could allowing more training errors help it predict better on new data?
+If we use PCA to keep 95% of the variation in a dataset, could we still lose the information that separates meaningful clusters? What kind of data would make this happen?
